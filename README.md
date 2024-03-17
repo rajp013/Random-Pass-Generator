@@ -36,3 +36,5 @@ pip install tk
 ```cmd
 python passg.py
 ```
+
+## Contributions and feedback are welcomed and appreciated! :raised_hands: :sparkles:
